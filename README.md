@@ -1,4 +1,4 @@
-# Summary of the Chatbot for Mental Health Support Project
+# Chatbot for Mental Health Support Project
 
 ## Introduction
 
